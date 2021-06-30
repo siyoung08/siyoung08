@@ -38,8 +38,10 @@ Techs that I've used at least once<br>
 ### ✌️Contact✌️
 <a href="mailto:happycloudy0308@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:happycloudy0308@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/> </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiyoung08&count_bg=%23111110&title_bg=%23497BD1&icon=github.svg&icon_color=%23030303&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<br>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=%20&fontSize=90&section=footer)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiyoung08&count_bg=%23111110&title_bg=%23497BD1&icon=github.svg&icon_color=%23030303&title=hits&edge_flat=false)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=footer&text=%20&fontSize=90r)
 
 </div>
