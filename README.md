@@ -40,8 +40,6 @@ Techs that I've used at least once<br>
 
 <br>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsiyoung08&count_bg=%23111110&title_bg=%23497BD1&icon=github.svg&icon_color=%23030303&title=hits&edge_flat=false)
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90r)
 
 </div>
