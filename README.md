@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 ### Hi there 👋
 🌱 Siyoung Choi <br>
   🎓 Myongji University<br>
-🥇 Majored in Convergence software
+🥇 Majored in Convergence Software<br>
+⚡<br>
+  ![9th](https://likelion-badge.herokuapp.com/api/likelion_shield_badge?style=flat)
  
 ### ✨Teck Stack✨<br>
 Techs that I've used at least once<br>
